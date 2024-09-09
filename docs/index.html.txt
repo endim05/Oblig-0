@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>(navn [mellomnavn]* etternavn)</title>
+<</head>
+<body>
+<h1>Min IS-114 portfolio</h1>
+<p>Kort beskrivelse av portfolio (oppgaveløsninger, dagbok, notater osv.) ...
+</body>
+</html>
+Gjør det nå! Spørsmål til reeksjon.
+Hvilken type kode er denne? Hvordan og hvor utføres
+denne koden?
+16. Bruk git-kommandoer for å lagre endringene både lokalt og i Github.
+23.08.2024, 17:34 IS-114 Git
+file:///Users/janisg/github.com/uia-worker/is114komp/docs/draft_git.html 8/17
